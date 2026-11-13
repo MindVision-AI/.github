@@ -15,5 +15,7 @@ and interact with their surroundings.
 - 🎬 **Image and video quality assessment** — understanding and evaluating visual quality
 - 🛰️ **AI for remote sensing** — applying intelligent methods to Earth observation
 
-🌐 Visit our [lab website](https://chaofengc.github.io/group.html) to
-learn more about our team and research.
+## 🔗 Connect with us
+
+- 🌐 **Lab Website:** https://chaofengc.github.io/group.html
+- 🤗 **Hugging Face:** https://huggingface.co/mindvision-ai
